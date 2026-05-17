@@ -1,0 +1,17 @@
+{
+  "name": "basic_information_of_the_cli_computer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "diskspace": "^2.0.0",
+    "os-utils": "^0.0.14"
+  }
+}
